@@ -1,0 +1,30 @@
+_repo: Eight-Keys-to-Eden_27595
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Clifton, Mark
+    alias: Clifton, Mark Irvin
+    birthdate: 1906
+    deathdate: 1963
+    gutenberg_agent_id: '25374'
+    url: http://www.gutenberg.org/2009/agents/25374
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27595'
+  lccn: '60009470'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Life on other planets -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: Eight Keys to Eden
+url: http://www.gutenberg.org/ebooks/27595
